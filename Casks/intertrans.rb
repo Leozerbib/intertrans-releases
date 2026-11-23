@@ -1,6 +1,6 @@
 cask "intertrans" do
-  version "1.1.0"
-  sha256 "a5b1a087517607832b75e705aecdd03c2d94818be1e70d596eb58417fb7e22a5"
+  version "1.2.0"
+  sha256 "7231c9b8afeaf181ec23edf196e85006143ffd4fd756e8a8e9b99ff5251f0321"
 
   url "https://github.com/Leozerbib/intertrans-releases/releases/download/v#{version}/Intertrans-#{version}.zip"
   name "Intertrans"
